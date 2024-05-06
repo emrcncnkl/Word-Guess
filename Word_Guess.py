@@ -1,5 +1,12 @@
 import random
-
+print('''
+ _       __               __   ______                    
+| |     / /___  _________/ /  / ____/_  _____  __________
+| | /| / / __ \/ ___/ __  /  / / __/ / / / _ \/ ___/ ___/
+| |/ |/ / /_/ / /  / /_/ /  / /_/ / /_/ /  __(__  |__  ) 
+|__/|__/\____/_/   \__,_/   \____/\__,_/\___/____/____/  
+                                                         
+''')
 words = ["apple", "computer", "book", "chair", "table", "glasses", "phone", "pen", "notebook", "watch", "shoe", "bag", "hat", "jacket", "pants", "shirt", "sweater", "lighting", "television", "radio", "microphone", "speaker", "headphones", "keyboard", "mouse", "printer", "scanner", "camera", "camera", "washing machine", "refrigerator", "oven", "microwave", "dishwasher", "hood", "blender", "toaster", "kettle", "hairdryer", "razor", "toothbrush", "comb", "mirror", "umbrella", "socks", "shoe", "boot", "sandal", "slipper", "sneaker", "wallet", "key", "cell phone", "tablet"]
 
 continue_game = 'y'
